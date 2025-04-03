@@ -1,1 +1,15 @@
+function Login(){
+let correct_username = Ethan;
+let guess = prompt ("Username");
+
+if ( guess == correct_username ){
+alert("correct");
+
+}
+
+
+else{
+alert("Wrong");
+}
+}
 
